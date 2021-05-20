@@ -60,7 +60,7 @@ int main() {
                 my_league.Print();
         }*/
         TeamStatistics team("alex");
-        cout << team << endl; 
+        cout << team << endl;
 
     return EXIT_SUCCESS;
 }
